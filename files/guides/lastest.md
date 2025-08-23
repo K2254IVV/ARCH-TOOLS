@@ -5,6 +5,7 @@ This is a Guide to *"How Install **ArchLinux** With ArchTools! (without archinst
  - [We determine whether you have *BIOS or UEFI*?](#11-verify-the-boot-mode)
  - [Ethernet](#12-ethernet)
  - [Time And Data](13-time-&-data)
+ - [Partition the disks](14-partition-the-disks)
 
 ---
 
@@ -39,16 +40,27 @@ To set up a network connection in the live environment, go through the following
 
 Ensure your network interface is listed and enabled, for example with ip-link:
 ```bash
-ip link
+ip link # or "ip a"
+# dhpcd {device}
+# or iwctl
 ```
 For wireless and WWAN, make sure the card is not blocked with rfkill.
 Connect to the network:
 Ethernet—plug in the cable.
 Wi-Fi—authenticate to the wireless network using iwctl.
 Mobile broadband modem—connect to the mobile network with the mmcli utility.
-Configure your network connection:
-DHCP: dynamic IP address and DNS server assignment (provided by systemd-networkd and systemd-resolved) should work out of the box for Ethernet, WLAN, and WWAN network interfaces.
 The connection may be verified with ping:
 ```bash
 ping ping.archlinux.org
 ```
+
+---
+# 1.3. Time & Data
+To Sync The Time run this commands in terminal:
+```bash
+timedatectl
+data
+```
+
+---
+#1.4. Partition the disks
