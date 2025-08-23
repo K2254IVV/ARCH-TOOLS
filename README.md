@@ -1,5 +1,6 @@
 # ARCH-TOOLS
 **ArchTools** - this is an **unofficial** guide/tools for using/installing Arch Linux with my settings!
+[![Status](https://img.shields.io/badge/status-beta_release-orange)]
 
 # Table of Contents
 - [Introduction](#introduction)
