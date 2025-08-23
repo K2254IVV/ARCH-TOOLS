@@ -10,7 +10,9 @@
 ---
 ## Introduction
 **ArchTools** - this is an unofficial guide/tools for using/installing Arch Linux with my settings!
+
 With ArchTools **YOUR** installation will be awesome!
+
 First Version Of ArchTools (PiM) (Pie in May) released in "23/08/2025"
 
 ---
@@ -18,8 +20,10 @@ First Version Of ArchTools (PiM) (Pie in May) released in "23/08/2025"
 here is a list of tools from each version of **ArchTools**:
 
 ArchTools PiM (1.0r)
-DebInstaller (deb-install) (1.0)
-LogoSwitcher (switcher) (1.0-2.0)
+
+- DebInstaller (deb-install) (1.0)
+
+- LogoSwitcher (switcher) (1.0-2.0)
 
 ---
 ## Installation
