@@ -1,4 +1,5 @@
-
+![Unstable](https://img.shields.io/static/v1?label=Status&message=Unstable&color=red&style=flat)
+![WithOutArchTools](https://img.shields.io/static/v1?label=Without&message=ArchTools&color=blue&style=flat)
 # Installation guide
 
 From ArchWiki
