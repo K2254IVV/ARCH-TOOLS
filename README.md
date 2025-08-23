@@ -35,6 +35,7 @@ ArchTools PiM (1.0r)
 Installation on **INSTALLED** ArchLinux/ArchBased:
 
 ```bash
+sh -c "$(curl -fsSL "https://raw.githubusercontent.com/K2254IVV/ARCH-TOOLS/refs/heads/main/files/ArchTools/install.sh")"
 ```
 
 ---
