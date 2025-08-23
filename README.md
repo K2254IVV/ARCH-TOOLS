@@ -26,5 +26,22 @@ ArchTools PiM (1.0r)
 - LogoSwitcher (switcher) (1.0-2.0)
 
 ---
+
 ## Installation
-Under Construction!
+- [On Installed System](#installation-to-installed-system)
+- [From ArchLinux LiveCD ISO](#livecd-installation)
+
+# Installation To Installed System
+Installation on **INSTALLED** ArchLinux/ArchBased:
+
+```bash
+sh -c "$(curl -fsSL )"
+```
+
+---
+# LiveCD Installation
+Installation on **LiveCD** of ArchLinux
+
+IF YOU DON'T HAVE **ArchLinux** ISO, Please Install the [**ISO**](https://archlinux.org/download/)
+
+underconstruction >_< wait to final README.MD!
