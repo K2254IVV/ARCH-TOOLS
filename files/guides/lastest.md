@@ -4,8 +4,8 @@ This is a Guide to *"How Install **ArchLinux** With ArchTools! (without archinst
  - [How Set *YOUR* keymap and font?](#1-set-the-console-keyboard-layout-and-font)
  - [We determine whether you have *BIOS or UEFI*?](#11-verify-the-boot-mode)
  - [Ethernet](#12-ethernet)
- - [Time And Data](13-time-&-data)
- - [Partition the disks](14-partition-the-disks)
+ - [Time And Data](#13-time-&-data)
+ - [Partition the disks](#14-partition-the-disks)
 
 ---
 
