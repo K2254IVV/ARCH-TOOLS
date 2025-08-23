@@ -63,4 +63,9 @@ data
 ```
 
 ---
-#1.4. Partition the disks
+# 1.4. Partition the disks
+When recognized by the live system, disks are assigned to a block device such as /dev/sda, /dev/nvme0n1 or /dev/mmcblk0. To identify these devices, use lsblk or fdisk.
+```bash
+fdisk -l
+```
+Results ending in rom, loop or airootfs may be ignored. mmcblk* devices ending in rpmb, boot0 and boot1 can be ignored.
