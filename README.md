@@ -46,8 +46,8 @@ Installation on **LiveCD** of ArchLinux
 
 IF YOU DON'T HAVE **ArchLinux** ISO, Please Install the [**ISO**](https://archlinux.org/download/)
 Guides:
-[ArchLinux **Original Guide** (without ArchTools)](https://wiki.archlinux.org/title/Installation_guide)
-[ArchTools **UnOfficiall** Guide](/files/guides/lastest.md)
+ - [ArchLinux **Original Guide** (without ArchTools)](https://wiki.archlinux.org/title/Installation_guide)
+ - [ArchTools **UnOfficiall** Guide](/files/guides/lastest.md)
 
 ---
 ## Usage
