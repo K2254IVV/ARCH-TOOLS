@@ -49,6 +49,7 @@ IF YOU DON'T HAVE **ArchLinux** ISO, Please Install the [**ISO**](https://archli
 Guides:
  - [ArchLinux **Original Guide** (without ArchTools)](https://wiki.archlinux.org/title/Installation_guide)
  - [ArchTools **UnOfficiall** Guide](/files/guides/lastest.md)
+ - [ArchWiki **Ported Original Guide** unstable](/files/guides/ported.md)
 
 ---
 ## Usage
