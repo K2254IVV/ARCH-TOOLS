@@ -45,5 +45,24 @@ sh -c "$(curl -fsSL "https://raw.githubusercontent.com/K2254IVV/ARCH-TOOLS/refs/
 Installation on **LiveCD** of ArchLinux
 
 IF YOU DON'T HAVE **ArchLinux** ISO, Please Install the [**ISO**](https://archlinux.org/download/)
+Guides:
+[ArchLinux **Original Guide** (without ArchTools)](https://wiki.archlinux.org/title/Installation_guide)
+[ArchTools **UnOfficiall** Guide](/files/guides/lastest.md)
 
-underconstruction >_< wait to final README.MD!
+---
+## Usage
+DebInstaller:
+```bash
+deb-install /path/to/deb/package.deb
+```
+
+LogoSwitcher:
+```bash
+switcher #shows a menu
+switcher --help #shows a help menu
+switcher --logo="example" #switching logo to example (not exists)
+switcher --name="example" #setting to Name of OS (from Real to indicated)
+```
+
+---
+Thanks For Reading README.MD!!
