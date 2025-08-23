@@ -2,7 +2,7 @@ This is a Guide to *"How Install **ArchLinux** With ArchTools! (without archinst
 
 # Steps:
  - [How Set *YOUR* keymap and font?](#1-set-the-console-keyboard-layout-and-font)
- - [We determine whether you have *BIOS or UEFI*?](#1.1-verify-the-boot-mode)
+ - [We determine whether you have *BIOS or UEFI*?](#11-verify-the-boot-mode)
  - [Ethernet](#1.2)
  - [Time And Data](1.3)
 
@@ -21,7 +21,7 @@ loadkeys de-latin1
 ```
 
 ---
-# 1.1 Verify the boot mode
+# 1.1. Verify the boot mode
 
 To verify the boot mode, check the UEFI bitness:
 ```bash
