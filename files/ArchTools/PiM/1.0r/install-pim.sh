@@ -12,5 +12,6 @@ sudo chmod +x deb-install
 echo "Installing Scripts to /bin..."
 sudo cp -Ri ./* /bin
 echo "ArchTools PiM Installed!"
-echo ""
+echo "Deleting TEMP files..."
+sudo rm -rf /tmp/archtools-tmp
 cd ~
