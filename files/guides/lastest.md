@@ -69,3 +69,12 @@ When recognized by the live system, disks are assigned to a block device such as
 fdisk -l
 ```
 Results ending in rom, loop or airootfs may be ignored. mmcblk* devices ending in rpmb, boot0 and boot1 can be ignored.
+
+The following partitions are required for a chosen device:
+
+ - One partition for the root directory /.
+ - For booting in UEFI mode: an EFI system partition.
+Use a partitioning tool like fdisk to modify partition tables. For example:
+```bash
+fdisk /dev/the_disk_to_be_partitioned
+```
