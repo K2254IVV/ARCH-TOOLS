@@ -60,7 +60,7 @@ LogoSwitcher:
 ```bash
 switcher #shows a menu
 switcher --help #shows a help menu
-switcher --logo="example" #switching logo to example (not exists)
+switcher --select="example" #switching logo to example (not exists)
 switcher --name="example" #setting to Name of OS (from Real to indicated)
 ```
 
