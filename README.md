@@ -35,7 +35,6 @@ ArchTools PiM (1.0r)
 Installation on **INSTALLED** ArchLinux/ArchBased:
 
 ```bash
-sh -c "$(curl -fsSL )"
 ```
 
 ---
