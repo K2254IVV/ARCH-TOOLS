@@ -1,7 +1,0 @@
-post_install() {
-    /usr/bin/archtools-install
-}
-
-post_upgrade() {
-    post_install
-}
