@@ -1,7 +1,7 @@
-# ARCH-TOOLS (AUR)
-**ArchTools** has a AUR BRANCH! 
+# ARCH-TOOLS (BUILD)
+**ArchTools** has a AUR/BUILD BRANCH! 
 
-![](https://img.shields.io/static/v1?label=Status-of-AUR&message=Unstable&color=red&style=flat)
+![](https://img.shields.io/static/v1?label=Status-of-BUILD&message=Unstable&color=red&style=flat)
 
 # Warning!
-THIS IS A AUR BRANCH!!
+THIS IS A AUR/BUILD BRANCH!!
