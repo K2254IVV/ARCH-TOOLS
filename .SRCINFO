@@ -1,0 +1,11 @@
+pkgbase = archtools
+	pkgdesc = K2254's Arch Linux setup tools
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/K2254IVV/ARCH-TOOLS
+	arch = any
+	license = MIT
+	depends = curl
+	depends = bash
+
+pkgname = archtools
